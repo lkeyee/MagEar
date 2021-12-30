@@ -19,3 +19,6 @@ To evaluate the quality of our recovered audios, we resample the original audio 
 * Iphone_original_8k.wav: Downsampling the original audio to 8kHz sampling rate in Python.
 * Iphone_original_4k.wav: Downsampling the original audio to 4kHz sampling rate in Python.
 * Iphone_original_24k.wav: Downsampling the original audio to 2kHz sampling rate in Python.
+<audio id="audio" controls="" preload="none">
+    <source id="wav" src="https://od.lk/s/NzVfMzI3MjQ1MThf/Airpods_original_2k.wav">
+</audio>
