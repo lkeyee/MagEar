@@ -9,13 +9,13 @@ Two original audios played by Airpods/Iphone.
 
 To evaluate the quality of our recovered audios, we resample the original audio at different sampling rates. In the folder “downsampling audios/”
 * Airpods_original_24k.wav: The original audio played by Airpods, which has a sampling rate of 24kHz.
-* Airpods_original_16k.wav: Downsampling the original audio to 16kHz in Python.
-* Airpods_original_8k.wav: Downsampling the original audio to 8kHz in Python.
-* Airpods_original_4k.wav: Downsampling the original audio to 4kHz in Python.
-* Airpods_original_2k.wav: Downsampling the original audio to 2kHz in Python.
+* Airpods_original_16k.wav: Downsampling the original audio to 16kHz sampling rate in Python.
+* Airpods_original_8k.wav: Downsampling the original audio to 8kHz sampling ratein Python.
+* Airpods_original_4k.wav: Downsampling the original audio to 4kHz sampling rate in Python.
+* Airpods_original_2k.wav: Downsampling the original audio to 2kHz sampling rate in Python.
 
 * Iphone_original_24k.wav: The original audio played by Iphone, which has a sampling rate of 24kHz.
-* Iphone_original_16k.wav: Downsampling the original audio to 16kHz in Python.
-* Iphone_original_8k.wav: Downsampling the original audio to 8kHz in Python.
-* Iphone_original_4k.wav: Downsampling the original audio to 4kHz in Python.
-* Iphone_original_24k.wav: Downsampling the original audio to 2kHz in Python.
+* Iphone_original_16k.wav: Downsampling the original audio to 16kHz sampling rate in Python.
+* Iphone_original_8k.wav: Downsampling the original audio to 8kHz sampling rate in Python.
+* Iphone_original_4k.wav: Downsampling the original audio to 4kHz sampling rate in Python.
+* Iphone_original_24k.wav: Downsampling the original audio to 2kHz sampling rate in Python.
