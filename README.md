@@ -7,7 +7,7 @@ Two original audios played by Airpods/Iphone.
 * Airpods_original.wav.
 * Iphone_original.wav.
 
-To evaluate the quality of our recovered audios, we resample the original audio at different sampling rates. In the folder 'downsampling audios/'
+To evaluate the quality of our recovered audios, we resample the original audio at different sampling rates. In the folder “downsampling audios/”
 * Airpods_original_24k.wav: The original audio played by Airpods, which has a sampling rate of 24kHz.
 * Airpods_original_16k.wav: Downsampling the original audio to 16kHz in Python.
 * Airpods_original_8k.wav: Downsampling the original audio to 8kHz in Python.
